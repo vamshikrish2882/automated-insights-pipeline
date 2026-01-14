@@ -1,4 +1,14 @@
-# Automated Insights Pipeline (SQL + Python)
+<p align="center">
+  <h2>Automated Insights Pipeline (SQL + Python)</h2>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Analytics-blue" />
+  <img src="https://img.shields.io/badge/Python-Pandas-green" />
+  <img src="https://img.shields.io/badge/ETL-Pipeline-orange" />
+  <img src="https://img.shields.io/badge/Automation-Airflow Ready-yellow" />
+</p>
+
 
 This project demonstrates an **end-to-end automated insights pipeline** for a fictional B2B packaging / operations business.
 
