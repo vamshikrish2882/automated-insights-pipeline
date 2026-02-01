@@ -109,6 +109,18 @@ The dashboards provide:
 Dashboard outputs enable stakeholders to quickly identify risks, opportunities, and performance gaps.
 
 ---
+## 📊 Power BI Dashboard (Screenshots)
+
+### Executive Summary
+![Executive Summary](screenshots/dashboard_executive_summary.png)
+
+### Operations Performance
+![Operations Performance](screenshots/dashboard_operations.png)
+
+### Anomaly Monitoring
+![Anomaly Monitoring](screenshots/dashboard_anomalies.png)
+
+---
 ## 📌 Impact
 
 The implementation of this automated analytics pipeline delivered measurable improvements in reporting efficiency, data reliability, and decision support.
